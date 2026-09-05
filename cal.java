@@ -43,4 +43,6 @@ public class Calculator {
         sc.close();
     }
 }
+System.out.prin;tn("hello devops");
+
 
