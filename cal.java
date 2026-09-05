@@ -34,7 +34,7 @@ public class Calculator {
                 break;
 
             default:
-                System.out.println("innInvalid operator!");
+                System.out.println("Invalid operator!");
                 return;
         }
 
